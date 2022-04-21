@@ -96,12 +96,12 @@ function playClueSequence(){
 
 function loseGame(){
   stopGame();
-  alert("Game Over. Arranca mmgvo! NEXT!.");
+  alert("Game Over. Try again.");
 }
 
 function winGame(){
   stopGame();
-  alert("Game Over. Buena perro!.");
+  alert("Game Over. You Rock!.");
 }
 
 function guess(btn){
