@@ -72,6 +72,20 @@ interactive styling effects to the gamebuttos */
 #button4.lit {
   background: yellow;
 }
+#button5 {
+  background: burlywood;
+}
+#button5:active,
+#button5.lit {
+  background: brown;
+}
+#button6 {
+  background: violet;
+}
+#button6:active,
+#button6.lit {
+  background: purple;
+}
 
 /* images and videos max out at full width */
 img,
