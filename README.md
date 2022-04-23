@@ -80,7 +80,7 @@ Thanks to the tutorial I was able to get ahead but it was a bit overwhelming exp
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Moises Rendiles]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
